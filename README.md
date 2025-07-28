@@ -1,43 +1,50 @@
-# Football-Player-Management-System
-🏟️ AthletiQ – Football Player Management System (C# Desktop App)
-AthletiQ is a user-friendly desktop application designed to manage and monitor professional football player data efficiently. Built using C# and Windows Forms, it integrates seamlessly with a backend database for full CRUD functionality and real-time team management.
+# 🏟️ AthletiQ – Football Player Management System (C# Desktop App)
 
-🚀 Features
-🧾 Player Information Management
-Add, update, or delete player records with ease including name, age, team, and jersey number.
+**AthletiQ** is a user-friendly desktop application designed to manage and monitor professional football player data efficiently. Built using **C# and Windows Forms**, it integrates seamlessly with a backend database for full CRUD functionality and real-time team management.
 
-🧍 View All Players
-Instantly access a list of all registered players across teams with sortable columns and clean layout.
+---
 
-🛡️ Injury Status Module
-Mark or unmark players as injured
+## 🚀 Features
 
-View a list of all currently injured players
+### 🧾 Player Information Management  
+- Add, update, or delete player records  
+- Fields include name, age, team, and jersey number  
 
-🧠 Smart Search
-Search for players by name or jersey number using a responsive input field.
+### 🧍 View All Players  
+- Display a list of all registered players  
+- Sortable columns with clean layout  
 
-🔁 Team-Specific View
-Buttons for top clubs (Barcelona, Real Madrid, Bayern Munich, Liverpool) to view respective team players.
+### 🛡️ Injury Status Module  
+- Mark or unmark players as injured  
+- View all currently injured players  
 
-🛠️ Technologies Used
-C# with Windows Forms
+### 🧠 Smart Search  
+- Search players by name or jersey number  
+- Responsive and accurate filtering  
 
-Microsoft SQL Server (for data storage)
+### 🔁 Team-Specific View  
+- View players by club (Barcelona, Real Madrid, Bayern Munich, Liverpool)  
+- Filtered display on team buttons  
 
-ADO.NET (for database connectivity)
+---
 
-Visual Studio IDE
+## 🛠️ Technologies Used
 
-🧠 Concepts Practiced
-CRUD operations in a desktop GUI
+- C# with Windows Forms  
+- Microsoft SQL Server  
+- ADO.NET for database connectivity  
+- Visual Studio IDE  
 
-Windows Forms UI design principles
+---
 
-SQL query integration and parameterized commands
+## 🧠 Concepts Practiced
 
-Modular code architecture using Forms
+- Full CRUD operations in GUI  
+- SQL integration with desktop apps  
+- Modular form-based UI design  
+- Real-time database synchronization  
+- Code separation and form linking  
 
-Real-time database syncing and data validation
+---
 
-📌 Developed as part of a collaborative software engineering project to simulate real-world application design, data handling, and sports management systems.
+> 📌 Developed as part of a collaborative software engineering project to simulate real-world application design, data handling, and sports management systems.
